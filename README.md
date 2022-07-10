@@ -8,7 +8,7 @@ The shoemaker's son always goes barefoot
 
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+[**Chrome** extension](https://chrome.google.com/webstore/detail/intertop-helper/afojcomdaplgmdpollinliogkecalbeo)
 
 ## Contribution
 
